@@ -13,6 +13,6 @@ print(f'I am {age} years old, so I have lived for {secondinage} seconds')
 
 def age(secondsinage):
     ages = secondsinage / (second * day)
-    print(f"I am {ages} years old,so I have lived for {secondinage} seconds ")
+    print(f"I am {ages} years old,so I have lived for {secondsinage} seconds ")
 
 age(1406000000)
